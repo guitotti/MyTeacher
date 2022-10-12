@@ -7,21 +7,21 @@ const Home: NextPage = () => {
   const teachers: Teacher[] = [
     {
       id: 1,
-      name: "Professdor 1",
+      name: "Professor 1",
       photo: "https://github.com/guitotti.png",
       description: "Descrição do Professor 1",
       price_hour: 100
     },
     {
       id: 2,
-      name: "Professdor 2",
+      name: "Professor 2",
       photo: "https://github.com/guitotti.png",
       description: "Descrição do Professor 2",
       price_hour: 100
     },
     {
       id: 3,
-      name: "Professdor 3",
+      name: "Professor 3",
       photo: "https://github.com/guitotti.png",
       description: "Descrição do Professor 3",
       price_hour: 100
